@@ -1,0 +1,11 @@
+C:\Users\ashp9\backend\workspace\findWords\obj\Debug\netcoreapp2.2\findWords.csprojAssemblyReference.cache
+C:\Users\ashp9\backend\workspace\findWords\obj\Debug\netcoreapp2.2\findWords.csproj.CoreCompileInputs.cache
+C:\Users\ashp9\backend\workspace\findWords\obj\Debug\netcoreapp2.2\findWords.AssemblyInfoInputs.cache
+C:\Users\ashp9\backend\workspace\findWords\obj\Debug\netcoreapp2.2\findWords.AssemblyInfo.cs
+C:\Users\ashp9\backend\workspace\findWords\bin\Debug\netcoreapp2.2\findWords.deps.json
+C:\Users\ashp9\backend\workspace\findWords\bin\Debug\netcoreapp2.2\findWords.runtimeconfig.json
+C:\Users\ashp9\backend\workspace\findWords\bin\Debug\netcoreapp2.2\findWords.runtimeconfig.dev.json
+C:\Users\ashp9\backend\workspace\findWords\bin\Debug\netcoreapp2.2\findWords.dll
+C:\Users\ashp9\backend\workspace\findWords\bin\Debug\netcoreapp2.2\findWords.pdb
+C:\Users\ashp9\backend\workspace\findWords\obj\Debug\netcoreapp2.2\findWords.dll
+C:\Users\ashp9\backend\workspace\findWords\obj\Debug\netcoreapp2.2\findWords.pdb
